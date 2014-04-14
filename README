@@ -1,0 +1,7 @@
+------
+static
+------
+
+This is a static site generator written in Go. I was unhappy with the many dependencies and complexity of a static site generator that I previously used and decided to create a replacement.
+
+It is not yet documented, there are no examples and the code is ugly. The proof of concept works, though, for a site that I maintain. All the missing goodies are coming up soon.
